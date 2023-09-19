@@ -4,6 +4,8 @@
 
 Let's explore all the machine learning projects of my GitHub repository in brief.
 
+
+
 ## INDEX:
 
 1. Air Index Quality Predictor
@@ -12,6 +14,8 @@ Let's explore all the machine learning projects of my GitHub repository in brief
 4. Digital Music Store Data Analysis
 5. Student Performance Indicator
 6. Real Estate Price Predictor
+
+
 
 
 ## 1. AIR QUALITY INDEX PREDICTION:
@@ -36,7 +40,51 @@ The deployment aspect of the project is commendable, leveraging the Heroku platf
 In conclusion, the "Air Quality Index Prediction" project addresses a critical environmental and public health challenge. It excels in data collection, preprocessing, and model deployment, showcasing versatility through various regression models and AutoML. The incorporation of code editors, hyperparameter tuning, ANN, and diligent model evaluation underscores a strong commitment to model performance and reliability. This project holds significant potential for improving air quality monitoring, aiding policymakers, and contributing to a healthier environment.
 
 
-## 6. Real Estate Price Predictor:
+
+
+## MOBILE PRICE CLASSIFIER
+
+#### Resource and Installation:
+
+##### Installation:
+AWS CLI:
+
+Windows:  [Download AWS CLI Installer](https://awscli.amazonaws.com/AWSCLIV2.msi)
+
+Mac: [Download AWS CLI v2](https://awscli.amazonaws.com/AWSCLIV2.pkg)
+
+Linux: [Download AWS CLI for Linux (64-bit)](https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip)
+
+
+#### Conclusion:
+
+
+
+
+## 5. Student Performance Indicator:
+![student_per_ind](https://github.com/Kaveeri16/ML_Projects/assets/139801912/f9ac38ff-dd5f-4656-b028-cf245a829caf) 
+
+#### Problem Statement and Objectives:
+The project addresses the need to predict and evaluate student performance using machine learning techniques. The primary objective is to develop a robust model that can accurately forecast student outcomes, aiding educators and institutions in early intervention and student support.
+
+#### Motivation:
+The motivation behind this project stems from the desire to improve educational outcomes and to enhance the educational experience by understanding student performance patterns and providing insights to educators and policymakers. By predicting student performance, educators can identify at-risk students and implement targeted interventions, ultimately enhancing student success rates.
+
+#### Data Collection & Preprocessing:
+The project demonstrates comprehensive data handling, encompassing exploratory data analysis (EDA), feature engineering, scaling, data cleaning, and various data transformations. These steps ensure data quality and relevance for model training. The use of separate libraries for data ingestion, exceptional handling, preprocessing, and data transformation for a high level of organization and modularity.
+
+#### Deployment:
+The deployment process is commendable, with the model integrated into a Flask-based pipeline. Furthermore, due to the capability to work with advanced deployment strategies and cloud platforms. the model is deployed on the AWS cloud via a CI/CD pipeline.
+
+#### Resource and Installation:
+
+#### Conclusion:
+Overall, this project - "Student Performance Indicator" demonstrates a comprehensive approach to a machine learning problem, from understanding the problem statement to deploying the model. It demonstrates a holistic approach to student performance prediction, encompassing data collection, preprocessing, model deployment, and evaluation. The project's commitment to modularity, code quality, and scalability is evident through the development of various libraries and the use of CI/CD pipelines. The potential impact on educational outcomes and the well-structured approach make this project a valuable contribution to the field of education.
+
+
+
+
+## 6. REAL ESTATE PRICE PREDICTOR:
 ![houseprice](https://github.com/Kaveeri16/ML_Projects/assets/139801912/6efe85eb-d960-4b4f-ab60-b0f732a6a8d5)
 
 
@@ -76,7 +124,11 @@ To assess the model's performance, we employed evaluation metrics such as Mean A
 2. Jupyter Notebook
 3. Python Libraries
 ```pip install pandas numpy matplotlib scikit-learn tensorflow```
-4. Dataset: [Link to UCI Machine Learning Repository - Boston Housing Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
+4. Dataset: [Link to UCI Machine Learning Repository - Boston Housing Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)Link
+
+#### Documentation:
+Documentation Link: [Link Text](https://norma.ncirl.ie/5208/1/ruchitadattatraypatil.pdf)
+
 
 #### Conclusion:
 In conclusion, our Real Estate Price Predictor project has successfully achieved its objectives. It provides a valuable tool for those involved in the Boston real estate market, offering accurate price predictions and insights. The model's deployment through Flask, GitHub Actions, Heroku, and Docker ensures accessibility to a wide user base, while ongoing monitoring and ethical considerations reflect our commitment to its continued success.
