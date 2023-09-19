@@ -10,11 +10,11 @@ Let's explore all the machine learning projects of my GitHub repository in brief
 2. Bike Sales Analysis
 3. Mobile Price Classification
 4. Digital Music Store Data Analysis
-5. Real Estate Price Predictor
-6. Student Performance Indicator
+5. Student Performance Indicator
+6. Real Estate Price Predictor
 
 
-## AIR QUALITY INDEX PREDICTION:
+## 1. AIR QUALITY INDEX PREDICTION:
 ![AQI predict](https://github.com/Kaveeri16/ML_Projects/assets/139801912/22202172-5661-4781-bcf6-62e07c97f1cd)
 
 
@@ -36,7 +36,7 @@ The deployment aspect of the project is commendable, leveraging the Heroku platf
 In conclusion, the "Air Quality Index Prediction" project addresses a critical environmental and public health challenge. It excels in data collection, preprocessing, and model deployment, showcasing versatility through various regression models and AutoML. The incorporation of code editors, hyperparameter tuning, ANN, and diligent model evaluation underscores a strong commitment to model performance and reliability. This project holds significant potential for improving air quality monitoring, aiding policymakers, and contributing to a healthier environment.
 
 
-## 5. Real Estate Price Predictor:
+## 6. Real Estate Price Predictor:
 ![houseprice](https://github.com/Kaveeri16/ML_Projects/assets/139801912/6efe85eb-d960-4b4f-ab60-b0f732a6a8d5)
 
 
