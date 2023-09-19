@@ -12,7 +12,10 @@ Let's explore all the machine learning projects of my GitHub repository in brief
 6. Student Performance Indicator
 
 
-## 5. Real Estate Price Predictor
+## 5. Real Estate Price Predictor:
+![houseprice](https://github.com/Kaveeri16/ML_Projects/assets/139801912/6efe85eb-d960-4b4f-ab60-b0f732a6a8d5)
+
+
 
 #### Problem Statements and Objectives:
 The project aims to create a real estate price predictor using supervised learning techniques for Boston houses. The primary objective is to develop a reliable model that can accurately predict house prices based on various features. This model will assist prospective buyers, sellers, and real estate professionals in making informed decisions.
