@@ -43,6 +43,52 @@ In conclusion, the "Air Quality Index Prediction" project addresses a critical e
 
 
 ## MOBILE PRICE CLASSIFIER
+![images](https://github.com/Kaveeri16/ML_Projects/assets/139801912/1b795bc2-e215-4fc3-bc26-39eb06630eef)
+
+
+
+#### Data Collection and Pre Processing:
+The data features are as follows:
+
+1. Battery Power in mAh
+
+2. Has BlueTooth or not
+
+3. Microprocessor clock speed
+
+4. The phone has dual sim support or not
+
+5. Front Camera Megapixels
+
+6. Has 4G support or not
+
+7. Internal Memory in GigaBytes
+
+8. Mobile Depth in Cm
+
+9. Weight of Mobile Phone
+
+10. Number of cores in the processor
+
+11. Primary Camera Megapixels
+
+12. Pixel Resolution height
+
+13. Pixel resolution width
+
+14. RAM in MB
+
+15. Mobile screen height in cm
+
+16. Mobile screen width in cm
+
+17. Longest time after a single charge
+
+18. 3g or not
+
+19. Has touch screen or not
+
+20. Has wifi or not
 
 #### Resource and Installation:
 
