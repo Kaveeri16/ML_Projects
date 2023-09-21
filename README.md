@@ -29,12 +29,12 @@ The project addresses the critical concern of predicting air quality index level
 The project's motivation arises from the pressing need to monitor and improve air quality for the well-being of communities. Predicting air quality index values empowers individuals and authorities to take timely actions to mitigate air pollution's adverse effects. This can help policymakers make informed decisions about air quality management.
 
 #### Data Collection & Preprocessing:
-The project showcases an impressive data collection process that includes web scraping and Beautiful Soup for data retrieval from multiple sources, , which shows their capability to handle unstructured data. We have also performed feature engineering, selection, and hyperparameter optimization, which are crucial steps in building a robust machine learning model.
+The project showcases an impressive data collection process that includes __web scraping and Beautiful Soup__ for data retrieval from multiple sources, , which shows their capability to handle unstructured data. We have also performed feature engineering, selection, and hyperparameter optimization, which are crucial steps in building a robust machine learning model.
 
 #### Resource and Installation:
 
 #### Deployment:
-The deployment aspect of the project is commendable, leveraging the Heroku platform and the Flask framework for seamless accessibility. The utilization of various regression models, including Linear Regression, Lasso Regression, Decision Tree, KNN Regression, Random Forest Regression, and XGBoost Regression, reflects a commitment to model diversity and robustness. The use of AutoML further demonstrates the ability to leverage advanced machine learning tools.
+The deployment aspect of the project is commendable, leveraging the Heroku platform and the Flask framework for seamless accessibility. The utilization of various regression models, including Linear Regression, Lasso Regression, Decision Tree, KNN Regression, Random Forest Regression, and XGBoost Regression, reflects a commitment to model diversity and robustness. The use of AutoML further demonstrates the ability to leverage advanced machine learning tools. This ML model is deployed in __Google Cloud Platform (GCP) and Microsoft Azure Cloud__. 
 
 #### Conclusion:
 In conclusion, the "Air Quality Index Prediction" project addresses a critical environmental and public health challenge. It excels in data collection, preprocessing, and model deployment, showcasing versatility through various regression models and AutoML. The incorporation of code editors, hyperparameter tuning, ANN, and diligent model evaluation underscores a strong commitment to model performance and reliability. This project holds significant potential for improving air quality monitoring, aiding policymakers, and contributing to a healthier environment.
@@ -42,7 +42,7 @@ In conclusion, the "Air Quality Index Prediction" project addresses a critical e
 
 
 
-## MOBILE PRICE CLASSIFIER
+## 3. MOBILE PRICE CLASSIFIER
 ![images](https://github.com/Kaveeri16/ML_Projects/assets/139801912/1b795bc2-e215-4fc3-bc26-39eb06630eef)
 
 
@@ -120,7 +120,7 @@ The motivation behind this project stems from the desire to improve educational 
 The project demonstrates comprehensive data handling, encompassing exploratory data analysis (EDA), feature engineering, scaling, data cleaning, and various data transformations. These steps ensure data quality and relevance for model training. The use of separate libraries for data ingestion, exceptional handling, preprocessing, and data transformation for a high level of organization and modularity.
 
 #### Deployment:
-The deployment process is commendable, with the model integrated into a Flask-based pipeline. Furthermore, due to the capability to work with advanced deployment strategies and cloud platforms. the model is deployed on the AWS cloud via a CI/CD pipeline.
+The deployment process is commendable, with the model integrated into a __Flask-based pipeline__. Furthermore, due to the capability to work with advanced deployment strategies and cloud platforms. the model is deployed on the __AWS cloud via a CI/CD pipeline__.
 
 #### Resource and Installation:
 
@@ -144,33 +144,49 @@ The motivation behind the Real Estate Price Predictor project is rooted in the n
 #### Data Collection and Preprocessing:
  The project involves collecting data on Boston houses, including features such as the number of rooms, crime rate, and proximity to amenities, etc. The collected data is preprocessed to handle missing values, outliers, and feature scaling.
 
-CRIM: per capita crime rate by town
-ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
-INDUS: proportion of non-retail business acres per town
-CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
-NOX: nitric oxides concentration (parts per 10 million)
-RM: average number of rooms per dwelling
-AGE: proportion of owner-occupied units built prior to 1940
-DIS: weighted distances to five Boston employment centres
-RAD: index of accessibility to radial highways
-TAX: full-value property-tax rate per $10,000
-PTRATIO: pupil-teacher ratio by town
-B: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
-LSTAT: % lower status of the population
-MEDV: Median value of owner-occupied homes in $1000's 
+__CRIM__: per capita crime rate by town
+
+__ZN__: proportion of residential land zoned for lots over 25,000 sq.ft.
+
+__INDUS__: proportion of non-retail business acres per town
+
+__CHAS__: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+
+__NOX__: nitric oxides concentration (parts per 10 million)
+
+__RM__: average number of rooms per dwelling
+
+__AGE__: proportion of owner-occupied units built prior to 1940
+
+__DIS__: weighted distances to five Boston employment centres
+
+__RAD__: index of accessibility to radial highways
+
+__TAX__: full-value property-tax rate per $10,000
+
+__PTRATIO__: pupil-teacher ratio by town
+
+__B__: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+
+__LSTAT__: % lower status of the population
+
+__MEDV__: Median value of owner-occupied homes in $1000's 
+
 
 #### Deployment: 
-The model is deployed using Flask, a web framework for Python. GitHub Actions is used for continuous integration and deployment. The application is hosted on Heroku and Docker containers are used for containerization. This allows users to access the predictor through a web interface.
+The model is deployed using __Flask__, a web framework for Python. __GitHub Actions__ is used for continuous integration and deployment. The application is hosted on __Heroku__ and __Docker containers__ are used for containerization. This allows users to access the predictor through a web interface.
 
 #### Evaluation Metrics:
-To assess the model's performance, we employed evaluation metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Results on validation and test datasets indicate the model's accuracy.
+To assess the model's performance, we employed evaluation metrics such as __Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE)__. Results on validation and test datasets indicate the model's accuracy.
 
 #### Resource Utilization:
 1. Anaconda
 2. Jupyter Notebook
 3. Python Libraries
-```pip install pandas numpy matplotlib scikit-learn tensorflow```
-4. Dataset: [Link to UCI Machine Learning Repository - Boston Housing Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)Link
+   
+```pip install pandas numpy matplotlib scikit-learn tensorflow```\
+
+5. Dataset: [Link to UCI Machine Learning Repository - Boston Housing Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
 
 #### Documentation:
 Documentation Link: [Link Text](https://norma.ncirl.ie/5208/1/ruchitadattatraypatil.pdf)
