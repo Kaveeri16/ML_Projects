@@ -39,7 +39,9 @@ The deployment aspect of the project is commendable, leveraging the Heroku platf
 #### Conclusion:
 In conclusion, the "Air Quality Index Prediction" project addresses a critical environmental and public health challenge. It excels in data collection, preprocessing, and model deployment, showcasing versatility through various regression models and AutoML. The incorporation of code editors, hyperparameter tuning, ANN, and diligent model evaluation underscores a strong commitment to model performance and reliability. This project holds significant potential for improving air quality monitoring, aiding policymakers, and contributing to a healthier environment.
 
+## 2. Bike Sales Analysis:
 
+![sql2](https://github.com/Kaveeri16/ML_Projects/assets/139801912/8d9071bb-1194-4c40-bfcc-7ae63df0d366)
 
 
 ## 3. MOBILE PRICE CLASSIFIER
@@ -104,6 +106,9 @@ Linux: [Download AWS CLI for Linux (64-bit)](https://awscli.amazonaws.com/awscli
 
 #### Conclusion:
 
+## 4. Digital Music Store Data Analysis:
+
+![excel](https://github.com/Kaveeri16/ML_Projects/assets/139801912/a2551cb8-953a-46d8-9fcb-15fabbca620c)
 
 
 
