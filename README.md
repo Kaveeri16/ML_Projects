@@ -43,6 +43,8 @@ In conclusion, the "Air Quality Index Prediction" project addresses a critical e
 
 ![sql2](https://github.com/Kaveeri16/ML_Projects/assets/139801912/8d9071bb-1194-4c40-bfcc-7ae63df0d366)
 
+![What_Does_a_Data_Analyst_Do_362bab8ef6](https://github.com/Kaveeri16/ML_Projects/assets/139801912/f149f018-2ae8-4b70-9141-0a80b4649f45)
+
 
 ## 3. MOBILE PRICE CLASSIFIER
 ![images](https://github.com/Kaveeri16/ML_Projects/assets/139801912/1b795bc2-e215-4fc3-bc26-39eb06630eef)
@@ -109,6 +111,9 @@ Linux: [Download AWS CLI for Linux (64-bit)](https://awscli.amazonaws.com/awscli
 ## 4. Digital Music Store Data Analysis:
 
 ![excel](https://github.com/Kaveeri16/ML_Projects/assets/139801912/a2551cb8-953a-46d8-9fcb-15fabbca620c)
+
+
+![What_Does_a_Data_Analyst_Do_362bab8ef6](https://github.com/Kaveeri16/ML_Projects/assets/139801912/f149f018-2ae8-4b70-9141-0a80b4649f45)
 
 
 
